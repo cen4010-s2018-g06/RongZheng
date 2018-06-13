@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "rzheng";
-$password = "TPY1QFy4gr";
+$password = "***********"; //encryption needed please delete password after use
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
